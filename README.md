@@ -6,3 +6,5 @@
 
 <h4>Usage</h4>
 <p>Double click to python file and read texts.</p>
+
+<h4>Tested on Windows</h4>
